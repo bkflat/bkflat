@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bkflat
+- Hi, I'm Britt Flaten
 - I'm an early-career environmental scientist working in the mid-Atlantic US
 - I’m interested in wetlands, water quality monitoring, and freshwater ecology
 - I’m currently learning how to code...
