@@ -1,7 +1,5 @@
 - Hi, I'm Britt Flaten
-- I'm an early-career environmental scientist working in the mid-Atlantic US
-- I’m interested in wetlands, water quality monitoring, and freshwater ecology
-- I’m currently learning R
+- I'm a water quality nerd working in the Hudson River
 - britt.flaten@gmail.com 
 
 <!---
