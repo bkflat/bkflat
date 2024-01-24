@@ -1,5 +1,5 @@
-- Hi, I'm Britt Flaten
-- I'm a water quality nerd working in the Hudson River
+- Brittney Flaten
+- Early career nerd currently working in the Hudson River Estuary
 - britt.flaten@gmail.com 
 
 <!---
