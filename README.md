@@ -1,4 +1,4 @@
-- Brittney Flaten
+- Brittney (Britt) Flaten
 - Early career nerd currently working in the Hudson River Estuary
 
 <!---
